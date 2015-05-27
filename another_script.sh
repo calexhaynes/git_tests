@@ -1,4 +1,4 @@
-#
+#Random line
 #
 
 for i in {1..100000}; do if { $i == 5} then touch file$i.txt; fi; done; echo $i
